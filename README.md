@@ -1,0 +1,1 @@
+This is my employee tracker/manager. The code allows you to be able to add employee's while going through a series of questions to help add them into the database.
